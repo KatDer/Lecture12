@@ -1,0 +1,11 @@
+D:\projects\-3.1-\-3.1-\bin\Debug\-3.1-.exe.config
+D:\projects\-3.1-\-3.1-\bin\Debug\-3.1-.exe
+D:\projects\-3.1-\-3.1-\bin\Debug\-3.1-.pdb
+D:\projects\-3.1-\-3.1-\obj\Debug\-3.1-.csproj.AssemblyReference.cache
+D:\projects\-3.1-\-3.1-\obj\Debug\-3.1-.csproj.SuggestedBindingRedirects.cache
+D:\projects\-3.1-\-3.1-\obj\Debug\_3._1_.Form1.resources
+D:\projects\-3.1-\-3.1-\obj\Debug\_3._1_.Properties.Resources.resources
+D:\projects\-3.1-\-3.1-\obj\Debug\-3.1-.csproj.GenerateResource.cache
+D:\projects\-3.1-\-3.1-\obj\Debug\-3.1-.csproj.CoreCompileInputs.cache
+D:\projects\-3.1-\-3.1-\obj\Debug\-3.1-.exe
+D:\projects\-3.1-\-3.1-\obj\Debug\-3.1-.pdb
